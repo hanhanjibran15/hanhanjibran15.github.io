@@ -1,0 +1,17 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "About Me"
+url = "http://localhost:1313/posts/1719334941210-about-me/"
+identifier = "B4WhfUDNkg"
+weight = 2
+
+[[main]]
+name = "Home"
+url = "http://localhost:1313/"
+identifier = "9rZnZd2Swe"
+weight = 1
+
+[[footer]]
+none = "none"

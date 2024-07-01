@@ -1,0 +1,16 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "hanhanjibran"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+[author]
+name = "Hanzalah Jibran"
+headline = "High school graduate, tech enthusiast"
+bio = "High school graduate"
+links = [ { github = "https://github.com/hanhanjibran15" }, { google = "https://g.dev/Hanhanjibran" }, { instagram = "https://www.instagram.com/hanhanjibran?igsh=MWNvd2I5OXJ2dXF1MQ==" }, { linkedin = "https://www.linkedin.com/in/hanzalah-jibran-04742927b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" } ]

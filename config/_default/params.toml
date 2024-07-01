@@ -1,0 +1,103 @@
+colorScheme = "blowfish"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+enableSearch = true
+enableCodeCopy = false
+disableImageOptimization = false
+disableTextInHeader = false
+
+[header]
+layout = "fixed"
+
+[footer]
+showMenu = true
+showCopyright = true
+showThemeAttribution = true
+showAppearanceSwitcher = true
+showScrollToTop = true
+
+[homepage]
+layout = "hero"
+showRecent = true
+showRecentItems = "5"
+showMoreLink = true
+showMoreLinkDest = "/posts"
+cardView = true
+cardViewScreenWidth = false
+layoutBackgroundBlur = ""
+
+[article]
+showDate = true
+showViews = false
+showLikes = false
+showDateOnlyInArticle = false
+showDateUpdated = false
+showAuthor = true
+showHero = false
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = true
+showBreadcrumbs = true
+showDraftLabel = true
+showEdit = false
+editAppendPath = true
+seriesOpened = false
+showHeadingAnchors = true
+showPagination = true
+invertPagination = true
+showReadingTime = true
+showTableOfContents = true
+showTaxonomies = false
+showAuthorsBadges = true
+showWordCount = true
+showZenMode = true
+showRelatedContent = true
+relatedContentLimit = true
+
+[list]
+showHero = false
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = true
+showBreadcrumbs = true
+showSummary = true
+showViews = false
+showLikes = false
+showTableOfContents = true
+showCards = true
+orderByWeight = false
+groupByYear = true
+cardView = true
+cardViewScreenWidth = true
+constrainItemsWidth = true
+
+[sitemap]
+excludedKinds = [ "taxonomy", "term" ]
+
+[taxonomy]
+showTermCount = true
+showHero = false
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = false
+cardView = false
+
+[term]
+showHero = false
+showBreadcrumbs = true
+showViews = false
+showLikes = false
+showTableOfContents = true
+groupByYear = true
+cardView = true
+cardViewScreenWidth = true
+heroStyle = ""
+
+[firebase]
+
+[fathomAnalytics]
+
+[umamiAnalytics]
+
+[buymeacoffee]
+
+[verification]
